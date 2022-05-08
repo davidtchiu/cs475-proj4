@@ -73,7 +73,6 @@ void philosopher(uint32 phil_id)
 		}
 	}
 }
-}
 
 int main(uint32 argc, uint32 *argv)
 {
